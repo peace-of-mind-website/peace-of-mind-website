@@ -1,0 +1,112 @@
+/* ========== Color =========== */
+/* ========== Background Colors =========== */
+/* ========== Grid =========== */
+/* ========== Text =========== */
+/* ========== Inputs =========== */
+/* ========== Selection Controls =========== */
+/* ========== Lists =========== */
+/* ========== Elevation =========== */
+/* ========== Layout Peaks  =========== */
+/* ========== Typography Font Sizes =========== */
+/* ========== Typography Line Heights =========== */
+/* ========== Typography Letter Spacings =========== */
+/*
+ * Please keep any changes here in sync with:
+ * ./index.js : NavigationIconStyleWorkaround
+ */
+.navigation-icon path.navigation-icon__component,
+.navigation-icon polygon.navigation-icon__component {
+  fill: #FFFFFF !important;
+  -webkit-transform: translate(-6px, -6px);
+          transform: translate(-6px, -6px); }
+
+.navigation-icon polygon.navigation-icon__component__check {
+  -webkit-transform: translate(-10px, -10px);
+          transform: translate(-10px, -10px); }
+
+.navigation-icon__circle {
+  fill: #39364F; }
+
+/* ========== Color =========== */
+/* ========== Background Colors =========== */
+/* ========== Grid =========== */
+/* ========== Text =========== */
+/* ========== Inputs =========== */
+/* ========== Selection Controls =========== */
+/* ========== Lists =========== */
+/* ========== Elevation =========== */
+/* ========== Layout Peaks  =========== */
+/* ========== Typography Font Sizes =========== */
+/* ========== Typography Line Heights =========== */
+/* ========== Typography Letter Spacings =========== */
+/* Override EDS */
+.location-autocomplete .eds-text-list-item__button {
+  width: 100%; }
+
+.location-autocomplete .eds-list-item__icon svg path {
+  fill: #3D64FF; }
+
+.location-autocomplete .eds-vector-image {
+  margin: 0; }
+
+/* Override EDS */
+
+/* ========== Color =========== */
+/* ========== Background Colors =========== */
+/* ========== Grid =========== */
+/* ========== Text =========== */
+/* ========== Inputs =========== */
+/* ========== Selection Controls =========== */
+/* ========== Lists =========== */
+/* ========== Elevation =========== */
+/* ========== Layout Peaks  =========== */
+/* ========== Typography Font Sizes =========== */
+/* ========== Typography Line Heights =========== */
+/* ========== Typography Letter Spacings =========== */
+/* ========== Responsive breakpoints UP ^^^^ =========== */
+/* ========== Responsive breakpoints DOWN vvvv =========== */
+/* ========== Responsive breakpoints ORIENTATION =========== */
+.onboarding-entry {
+  position: relative; }
+
+.onboarding-entry__img {
+  height: 100%;
+  width: 100%; }
+
+@media (max-width: 792px) {
+  .onboarding-entry--standard .onboarding-entry__content {
+    height: 100%;
+    width: 100%; }
+  .onboarding-entry--standard .onboarding-entry__content__text {
+    position: absolute;
+    top: 16px;
+    left: 24px;
+    padding-right: 16px; }
+  .onboarding-entry--standard .onboarding-entry__button {
+    position: absolute;
+    bottom: 16px;
+    left: 24px; } }
+
+@media (min-width: 792px) {
+  .onboarding-entry--standard .onboarding-entry__content {
+    position: absolute;
+    top: 16px;
+    left: 24px; } }
+
+.onboarding-entry--mobile .onboarding-entry__content {
+  height: 100%;
+  width: 100%; }
+
+.onboarding-entry--mobile .onboarding-entry__content__text {
+  position: absolute;
+  top: 18px;
+  left: 16px;
+  padding-right: 16px; }
+
+.onboarding-entry--mobile .onboarding-entry__button {
+  position: absolute;
+  bottom: 16px;
+  left: 16px; }
+
+
+/*# sourceMappingURL=vendors.css.map*/
