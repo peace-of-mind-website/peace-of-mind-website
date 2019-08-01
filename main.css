@@ -47,6 +47,7 @@ q{
   height:80px;
   width: 400px;
   margin-top:10px;
+  opacity:1;
 }
 
 #title{
@@ -57,6 +58,7 @@ q{
   color: white;
   margin: none;
   background-color: transparent;
+  opacity:1;
 }
 
 #bar{
@@ -168,6 +170,7 @@ body {
   /* 89C4A5; */
   border-radius: 12px;
   text-decoration: none;
+  opacity: 1;
 }
 
 .dropdown-content {
