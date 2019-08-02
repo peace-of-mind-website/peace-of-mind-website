@@ -3,4 +3,6 @@
 	
   Our goal is to inform and educate ordinary people about mental illness and how to get involved in helping others, as well as provide useful health resources. We want to foster an environment where people with or without a mental illness can learn more, destress, and most importantly, feel safe and accepted. 
   
+  As future goals, we would love to add a “contact us” entry form where people can submit questions and get to know more about us and how we created this website. We would also like to create a forum page where people could discuss mental health and ask for additional resources to get help. This would help combat the stigma surrounding mental health that plagues our society. Lastly, there are always ways to improve our existing pages and formatting, and we want to continue working on that, too.
+  
   We used HMTL, CSS, and javascript to create this website, as well as the Pexels API, Google News and Events, and Spotify.
